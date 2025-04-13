@@ -28,6 +28,6 @@
 
 
 ## 📫 Let's Connect:
-- [LinkedIn](linkedin.com/in/eng-aweis)
+- [LinkedIn](https://www.linkedin.com/in/eng-aweis)
 - [Facebook](https://www.facebook.com/profile.php?id=100085711642955)
 - [Portfolio](https://engaweis.netlify.app/)
