@@ -1,5 +1,5 @@
 # 👋 Hello, I'm Mohamed Aweys
- 
+
 - 💻 **Full-Stack Developer** | **Flutter** | **Next.js** | **Firebase**
 - 🎓 IT Student at **SIMAD University**
 - 🌍 Passionate about creating user-friendly web and mobile apps
@@ -21,15 +21,13 @@
 - MongoDB 🗃️
 - GraphQL 📡
 
-## 📫 How to reach me:
-- [LinkedIn](your-link)
-- [Twitter](your-link)
-- [Portfolio](your-link)
 
 ## 🔗 Featured Projects:
-- [SheekoChat](link-to-project) – A real-time chat application with Firebase and Supabase.
-- [Portfolio](link-to-portfolio) – Personal portfolio with Next.js and Sanity.
+- [SheekoChat](https://github.com/MaxamedAweis90/app-sheekochat) – A real-time chat application with Firebase and Supabase.
+- [Soomar_Clone](https://github.com/MaxamedAweis90/Soomar_clone) – Personal portfolio with Next.js and Sanity.
 
-## 👯 Let's Connect:
-- [LinkedIn](your-link)
-- [Twitter](your-link)
+
+## 📫 Let's Connect:
+- [LinkedIn](linkedin.com/in/eng-aweis)
+- [Facebook](https://www.facebook.com/profile.php?id=100085711642955)
+- [Portfolio](https://engaweis.netlify.app/)
