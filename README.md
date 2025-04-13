@@ -1,5 +1,5 @@
 # 👋 Hello, I'm Mohamed Aweys
-
+ 
 - 💻 **Full-Stack Developer** | **Flutter** | **Next.js** | **Firebase**
 - 🎓 IT Student at **SIMAD University**
 - 🌍 Passionate about creating user-friendly web and mobile apps
