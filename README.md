@@ -46,7 +46,7 @@
 ## 📈 GitHub Stats
 <p align="center">
 <img width="48%" height="50%" src="https://github-readme-stats.vercel.app/api?username=MaxamedAweis90&show_icons=true&theme=gruvbox" />
-[![GitHub Streak](https://streak-stats.demolab.com?user=MaxamedAweis90&theme=gruvbox)](https://git.io/streak-stats)
+<img width="48%" height="50%" src="https://streak-stats.demolab.com?user=MaxamedAweis90&theme=gruvbox)](https://git.io/streak-stats" />
 
 </p>
 
