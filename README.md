@@ -46,12 +46,12 @@
 ## 📈 GitHub Stats
 <p align="center">
 	<img width="48%" height="50%" src="https://github-readme-stats.vercel.app/api?username=MaxamedAweis90&show_icons=true&theme=gruvbox" />
-	<img width="48%" height="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=MaxamedAweis90&theme=vue" />
+	<img width="48%" height="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=MaxamedAweis90&theme=gruvbox" />
 </p>
 
 ## 💳 Profile Summary Card
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MaxamedAweis90&theme=vue"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MaxamedAweis90&theme=gruvbox"/>
 </p>
 
 ---
