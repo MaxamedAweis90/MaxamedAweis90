@@ -46,7 +46,7 @@
 ## 📈 GitHub Stats
 <p align="center">
 	<img width="48%" height="50%" src="https://github-readme-stats.vercel.app/api?username=MaxamedAweis90&show_icons=true&theme=vue" />
-	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=MaxamedAweis90&theme=vue" />
+	<img width="48%" height="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=MaxamedAweis90&theme=vue" />
 </p>
 
 ## 💳 Profile Summary Card
