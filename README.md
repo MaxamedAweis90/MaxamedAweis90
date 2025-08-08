@@ -6,15 +6,14 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MaxamedAweis90&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" /> </p>
 
 # 🚀 About Me :
-- 👨‍💻 I’m **Mohamed Aweys** — a tech enthusiast and aspiring **Software Engineer** passionate about web & mobile app development, coding, and graphic design.
-- 🎨 Creativity Meets Functionality — I blend **artistic design skills** with problem-solving to craft applications that are both beautiful and user-friendly.
-- 🚀 **Web & Mobile App Developer** — Skilled in **React**, **Next.js**, **Flutter**, **Firebase**, and **Supabase**. I enjoy building full-stack solutions from clean UIs to efficient backend systems.
-- 📚 Continuous Learning — Always exploring new technologies, improving UI/UX, and mastering modern frameworks.
-- 🤝 Collaboration & Community — Active in internships and tech communities, including:
-  - **SomNOG7 Member** — Expanding knowledge in internet technologies and network operations.
-  - **CodSoft Web Development Intern** — Built responsive web projects with modern stacks.
-- 🎯 Goal: Become a professional **Software Engineer** and contribute to impactful, real-world projects.
-- ⚡ Fun fact: I also specialize in **video/photo editing** and love merging creativity with technology.
+- 👨‍💻 Mohamed Aweys — tech enthusiast, aspiring Software Engineer.
+- 🎨 Creative designer meets problem-solver.
+- 🚀 Web & mobile app developer.
+- 📚 Always learning new technologies.
+- 🤝 Active in tech communities.
+- 💼 SomNOG7 & CodSoft intern.
+- 🎯 Goal: Become software engineer.
+- ⚡ Skilled in video/photo editing.
 
 
 ## 🌐 Socials
